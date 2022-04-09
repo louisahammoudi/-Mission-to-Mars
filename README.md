@@ -9,15 +9,5 @@ Here is the list of deliverables for the analysis:
 - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 - Deliverable 3: Add Bootstrap 3 Components
 
-## Results
 
-The components of the deliverables are as follows;
-
-![Feature&Image&Facts](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Mars%20Facts.PNG)
-
-![D3thumbnails](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/Website%20thumbnails.png)
-
-![listofdictionary](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/list%20of%20dictionary%20items.png)
-
-![Enchanced](https://github.com/Anuradha0/Mission_to_Mars_Challenge/blob/main/Images/EnchancedMarsHemispheres.PNG)
 
