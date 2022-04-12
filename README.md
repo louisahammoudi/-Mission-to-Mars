@@ -1,13 +1,16 @@
-# Mission-to-Mars
- 
-## Overview:
+Overview
 
-Robin's web app is looking good and functioning well, but she wants to add more polish to it. She had been admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. She would like to adjust the current web app to include all four of the hemisphere images. To do this, you’ll use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
+The Purpose of the challenge is to assemble a web page where we can filter UFO sightings based on date, location(city and state), and shape of the possible sighting. The filter is automatically updated when we enter in paramaters that want
 
-Here is the list of deliverables for the analysis:
-- Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
-- Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
-- Deliverable 3: Add Bootstrap 3 Components
+Results
+
+To complete a search, we add in the parameters that we want to view in the designated search field. Shown below is a search of January 10th, 2010. The other filters listed are place holders and do not filter until something is typed into the field.
 
 
+![image](https://user-images.githubusercontent.com/93894919/162881625-6a61aa11-1bb0-457b-9d91-09f6903009bc.png)
 
+Summary
+
+One drawback to this webpage is that there is limited data. Only about 100 instances of UFO's sighting in the data set.
+
+Additional things that could be added to the page are a larger list of data or possibly a refreshable data source so you're always getting the most up to data information.
